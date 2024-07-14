@@ -110,6 +110,17 @@ Refer to the UMI repository for setting up the robot and camera. For microphone,
 
 NOTE: Remember to calibrate the audio latency following Appendix A.1, and update the number [here](https://github.com/real-stanford/maniwav/blob/3f15f6b16b4de2eeaab7390ad56ab5705e69d045/scripts_real/eval_real_umi.py#L166).
 
+## Citation
+If you find this codebase useful, feel free to cite our paper:
+```bibtex
+@article{liu2024maniwav,
+    title={ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data},
+    author={Liu, Zeyi and Chi, Cheng and Cousineau, Eric and Kuppuswamy, Naveen and Burchfiel, Benjamin and Song, Shuran},
+    journal={arXiv preprint arXiv:2406.19464},
+    year={2024}
+}
+```
+
 ## Contact
 If you have questions about the codebase, don't hesitate to reach out to [Zeyi](https://lzylucy.github.io/). If you opened a GitHub issue, please also shoot me an email with the link to the issue.
 
